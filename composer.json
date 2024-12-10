@@ -1,0 +1,28 @@
+{
+    "name": "milenmk/roles-and-permissions",
+    "description": "Simple roles and permissions package for laravel",
+    "version": "1.0.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Milenmk\\RolesAndPermissions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Milen Karaganski",
+            "email": "milenmk@gmail.com"
+        }
+    ],
+    "repository": [
+        {
+            "type": "git",
+            "url": "https://github.com/milenmk/Roles-and-Permissions"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
